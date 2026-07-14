@@ -1,6 +1,6 @@
-# Workspace & CRM for Veterinaria Las Lomas
+# Workspace & CRM for 'Veterinaria Las Lomas'
 
-Sistema de gestión veterinaria para administrar clientes, mascotas, citas, e historial médico centralizado en un solo sistema.
+Centralized SaaS for communication, organization, and automation for a veterinary local business in Ecuador, check out the client's [socials](https://instagram.com/vetlaslomas).
 
 ## Demonstration & Product analysis
 > Coming Soon.
