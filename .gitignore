@@ -1,0 +1,10 @@
+# BACKEND
+
+backend-api/node_modules/
+backend-api/dist/
+backend-api/package-lock.json/
+backend-api/.env
+
+# FRONTEND ANGULAR
+
+# FRONTEND REACT NATIVE
